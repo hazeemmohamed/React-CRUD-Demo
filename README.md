@@ -27,5 +27,5 @@ This project allows users to **add**, **edit**, and **delete** records using a c
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/react-form-table-crud.git
+git clone https://github.com/hazeemmohamed/React-CRUD-Demo.git
 
